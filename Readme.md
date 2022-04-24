@@ -1,0 +1,44 @@
+<h3 align="center">
+<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  Welcome to Pratikshya's profile!
+</h3>
+<p align="center">
+  <a href="https://github.com/Parajulibkrm"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=An+aspiring+Developer;A+full+time+learner;Student+of+computer+science+and+IT."></a>
+</p>
+<p align="center">
+<a href="https://linkedin.com/in/parajulibkrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parajulibkrm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/parajulibkrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="parajulibkrm" height="30" width="40" /></a>
+
+![Snake animation](https://github.com/pratikxya/pratikxya/blob/output/github-contribution-grid-snake.svg)
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+
+```javascript
+const Pratikshya = {
+  pronouns: "she" | "her",
+  code: [Javascript, Typescript, HTML, CSS],
+  tech: [Express, react, node, mongodb],
+  architecture: ["microservices", "event-driven", "design system pattern"],
+  involvement: {
+    student: "Prithivi Narayan Campus",
+    member: "CSIT Association of Nepal- Pokhara",
+    team: "Codekavya",
+  },
+  challenge:
+    "I am doing the #100DaysOfCode challenge focused on node and javascript",
+};
+```
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikxya&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikshya&layout=compact&theme=algolia&hide_border=true" /></a> |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+
+<!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+<!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+
+![](assets/bottom_header.svg)
