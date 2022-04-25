@@ -49,4 +49,3 @@ const Pratikshya = {
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
 ![](assets/bottom_header.svg)
-[Github]: https://twitter.com/dani_akash_
