@@ -1,9 +1,6 @@
 <h3 align="center">
 
 <!-- <p align="center">
-  <a href="https://github.com/Parajulibkrm"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=An+aspiring+Developer;A+full+time+learner;Student+of+computer+science+and+IT."></a>
-</p> -->
-<!-- <p align="center">
 <a href="https://linkedin.com/in/parajulibkrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="parajulibkrm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/parajulibkrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="parajulibkrm" height="30" width="40" /></a> -->
 
@@ -12,8 +9,9 @@
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
   Welcome to Pratikshya's profile!
 </h3>
-<a href="https://github.com/Parajulibkrm"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=An+aspiring+Developer;A+full+time+learner;Student+of+computer+science+and+IT."></a>
-
+<p align="center">
+  <a href="https://github.com/Parajulibkrm"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=An+aspiring+Developer;A+full+time+learner;Student+of+computer+science+and+IT."></a>
+</p>
 <br>
 <br><br><br><br>
 
