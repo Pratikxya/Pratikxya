@@ -45,6 +45,9 @@ const Pratikshya = {
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikxya&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Pratikshya's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikshya&layout=compact&theme=algolia&hide_border=true" /></a> |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
+<details>
+  <summary>✨ Weekly commit summary </summary>
+
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
 
 📅 **I'm Most Productive on Mondays**
@@ -61,5 +64,7 @@ const Pratikshya = {
 |           |            |                                                                                                                           |        |
 
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
+
+</details>
 
 ![](assets/bottom_header.svg)
