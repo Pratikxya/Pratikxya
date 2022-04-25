@@ -49,19 +49,18 @@ const Pratikshya = {
   <summary>✨ Weekly commit summary </summary>
 
 <!--START_SECTION_WEEKLY_COMMIT:readme-info-->
+📅 **I'm Most Productive on Mondays** 
 
-📅 **I'm Most Productive on Mondays**
-
-|           |            |                                                                                                                           |        |
-| --------- | ---------- | ------------------------------------------------------------------------------------------------------------------------- | ------ |
-| Monday    | 11 commits | ![](https://via.placeholder.com/192x22/000000/000000?text=+)![](https://via.placeholder.com/208x22/b8b8b8/b8b8b8?=text=+) | 47.83% |
-| Tuesday   | 0 commits  | ![](https://via.placeholder.com/0x22/000000/000000?text=+)![](https://via.placeholder.com/400x22/b8b8b8/b8b8b8?=text=+)   | 0.0%   |
-| Wednesday | 6 commits  | ![](https://via.placeholder.com/104x22/000000/000000?text=+)![](https://via.placeholder.com/296x22/b8b8b8/b8b8b8?=text=+) | 26.09% |
-| Thursday  | 3 commits  | ![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)  | 13.04% |
-| Friday    | 0 commits  | ![](https://via.placeholder.com/0x22/000000/000000?text=+)![](https://via.placeholder.com/400x22/b8b8b8/b8b8b8?=text=+)   | 0.0%   |
-| Saturday  | 0 commits  | ![](https://via.placeholder.com/0x22/000000/000000?text=+)![](https://via.placeholder.com/400x22/b8b8b8/b8b8b8?=text=+)   | 0.0%   |
-| Sunday    | 3 commits  | ![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)  | 13.04% |
-|           |            |                                                                                                                           |        |
+| | | | |
+| --- | --- | --- | --- |
+|Monday                   |12 commits          |![](https://via.placeholder.com/200x22/000000/000000?text=+)![](https://via.placeholder.com/200x22/b8b8b8/b8b8b8?=text=+)|50.0%|
+|Tuesday                  |0 commits           |![](https://via.placeholder.com/0x22/000000/000000?text=+)![](https://via.placeholder.com/400x22/b8b8b8/b8b8b8?=text=+)|0.0%|
+|Wednesday                |6 commits           |![](https://via.placeholder.com/100x22/000000/000000?text=+)![](https://via.placeholder.com/300x22/b8b8b8/b8b8b8?=text=+)|25.0%|
+|Thursday                 |3 commits           |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|12.5%|
+|Friday                   |0 commits           |![](https://via.placeholder.com/0x22/000000/000000?text=+)![](https://via.placeholder.com/400x22/b8b8b8/b8b8b8?=text=+)|0.0%|
+|Saturday                 |0 commits           |![](https://via.placeholder.com/0x22/000000/000000?text=+)![](https://via.placeholder.com/400x22/b8b8b8/b8b8b8?=text=+)|0.0%|
+|Sunday                   |3 commits           |![](https://via.placeholder.com/48x22/000000/000000?text=+)![](https://via.placeholder.com/352x22/b8b8b8/b8b8b8?=text=+)|12.5%|
+| | | | |
 
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
 
