@@ -15,8 +15,6 @@
 <a href="https://github.com/Pratikxya"><img src="https://img.shields.io/github/followers/Pratikxya?label=Follow&logo=github&style=for-the-badge"><a>
 </p>
 <br>
-<br>
-<hr>
 
 ![Snake animation](https://github.com/pratikxya/pratikxya/blob/output/github-contribution-grid-snake.svg)
 
