@@ -29,7 +29,6 @@ const Pratikshya = {
   involvement: {
     student: "Prithivi Narayan Campus",
     member: "CSIT Association of Nepal- Pokhara",
-    team: "Codekavya",
   },
   challenge:
     "I am doing the #100DaysOfCode challenge focused on node and javascript",
