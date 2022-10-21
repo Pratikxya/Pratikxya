@@ -56,9 +56,9 @@ const Pratikshya = {
 |Tuesday                  |34 commits          |![](https://via.placeholder.com/52x22/000000/000000?text=+)![](https://via.placeholder.com/348x22/b8b8b8/b8b8b8?=text=+)|13.13%|
 |Wednesday                |21 commits          |![](https://via.placeholder.com/32x22/000000/000000?text=+)![](https://via.placeholder.com/368x22/b8b8b8/b8b8b8?=text=+)|8.11%|
 |Thursday                 |45 commits          |![](https://via.placeholder.com/68x22/000000/000000?text=+)![](https://via.placeholder.com/332x22/b8b8b8/b8b8b8?=text=+)|17.37%|
-|Friday                   |81 commits          |![](https://via.placeholder.com/124x22/000000/000000?text=+)![](https://via.placeholder.com/276x22/b8b8b8/b8b8b8?=text=+)|31.27%|
+|Friday                   |82 commits          |![](https://via.placeholder.com/128x22/000000/000000?text=+)![](https://via.placeholder.com/272x22/b8b8b8/b8b8b8?=text=+)|31.66%|
 |Saturday                 |26 commits          |![](https://via.placeholder.com/40x22/000000/000000?text=+)![](https://via.placeholder.com/360x22/b8b8b8/b8b8b8?=text=+)|10.04%|
-|Sunday                   |22 commits          |![](https://via.placeholder.com/32x22/000000/000000?text=+)![](https://via.placeholder.com/368x22/b8b8b8/b8b8b8?=text=+)|8.49%|
+|Sunday                   |21 commits          |![](https://via.placeholder.com/32x22/000000/000000?text=+)![](https://via.placeholder.com/368x22/b8b8b8/b8b8b8?=text=+)|8.11%|
 | | | | |
 
 <!--END_SECTION_WEEKLY_COMMIT:readme-info-->
