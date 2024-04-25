@@ -3,11 +3,10 @@
 <img align="left" width="150" height="150" alt="Pratikshya" src="https://github.com/Pratikxya/Pratikxya/raw/master/assets/dp.png"/>
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-  Welcome to Pratikshya's profile!
+  Welcome to Pratikshya's profile
 </h3>
 <p align="center">
-  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=An+aspiring+Developer;A+full+time+learner;Student+of+computer+science+and+IT."></a>
-
+  <a href="#"><img src="https://readme-typing-svg.herokuapp.com?size=21&center=true&vCenter=true&width=440&height=45&lines=An+aspiring+Developer;A+full+time+learner;Computer+Science+Graduate."></a>
 </p>
 
 <p align="center">
@@ -24,15 +23,8 @@
 const Pratikshya = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS],
-  tech: [Express, react, node, mongodb],
+  tech: [Express, react, node, mongodb, Nest],
   architecture: ["microservices", "event-driven", "design system pattern"],
-  involvement: {
-    student: "Prithivi Narayan Campus",
-    member: "CSIT Association of Nepal- Pokhara",
-  },
-  challenge:
-    "I am doing the #100DaysOfCode challenge focused on node and javascript",
-};
 ```
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
